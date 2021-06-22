@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39ec29b2224e9c54084919ca0254e547, type: 3}
+  m_Name: ZombieDie
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 22d46a9a2504ac542afc63ab201f4ba1, type: 3}
+  volume:
+    minValue: 1
+    maxValue: 1
+  pitch:
+    minValue: 0.5555557
+    maxValue: 0.9210524
+  distance:
+    minValue: 0
+    maxValue: 1000
+  mixer: {fileID: 5773813686009346308, guid: 7cc11fae5bb617e43934c82dff501888, type: 2}

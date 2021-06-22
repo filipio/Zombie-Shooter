@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39ec29b2224e9c54084919ca0254e547, type: 3}
+  m_Name: PlayerGrunt
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 9a61e8ffcad0acc4c8f5319b2420e5ac, type: 3}
+  - {fileID: 8300000, guid: deafdfc365296e5458ba71e34136cb92, type: 3}
+  - {fileID: 8300000, guid: 1683aabba8b5f2d41b2aebe51759aea2, type: 3}
+  - {fileID: 8300000, guid: e5a3b27c706b54b45ab1c516d613afd1, type: 3}
+  - {fileID: 8300000, guid: 92912c84868a15e41b33cdf43ecd1c3f, type: 3}
+  - {fileID: 8300000, guid: 99f6d13d94b31fe49904711c538caef9, type: 3}
+  - {fileID: 8300000, guid: 44ec6a719b19a1b43a63b81e8e8e3a70, type: 3}
+  - {fileID: 8300000, guid: fbdb1f547186b354ca7633d35e25efc4, type: 3}
+  volume:
+    minValue: 0.5891554
+    maxValue: 1
+  pitch:
+    minValue: 1.0719501
+    maxValue: 1.3639206
+  distance:
+    minValue: 0
+    maxValue: 1000
+  mixer: {fileID: 8149979119804854485, guid: 7cc11fae5bb617e43934c82dff501888, type: 2}

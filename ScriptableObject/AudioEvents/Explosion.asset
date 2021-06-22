@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39ec29b2224e9c54084919ca0254e547, type: 3}
+  m_Name: Explosion
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 8a8df8b0c7230af46b613f3b89759663, type: 3}
+  - {fileID: 8300000, guid: bc5acba1c54a2b44db273502261010a6, type: 3}
+  - {fileID: 8300000, guid: 5e6dd81de3b34074ca9f560f54383066, type: 3}
+  - {fileID: 8300000, guid: 5516902f02d16f843bef88bf64013c9b, type: 3}
+  - {fileID: 8300000, guid: 50c5c738902f01b4180d84bf24c19867, type: 3}
+  - {fileID: 8300000, guid: 985bdf085742cbb42afc8d19632ec796, type: 3}
+  - {fileID: 8300000, guid: 2fb76f7f13962934aa8fac9710b7f8bd, type: 3}
+  - {fileID: 8300000, guid: a2ab20647c0d1b74eb368623f024356b, type: 3}
+  - {fileID: 8300000, guid: ca81ed4ea7dc57543b72425434c91552, type: 3}
+  volume:
+    minValue: 0.9217935
+    maxValue: 1
+  pitch:
+    minValue: 0.49947864
+    maxValue: 1.354536
+  distance:
+    minValue: 0
+    maxValue: 1000
+  mixer: {fileID: -6040309089135761430, guid: 7cc11fae5bb617e43934c82dff501888, type: 2}
